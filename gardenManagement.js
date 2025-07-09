@@ -12,7 +12,7 @@ if (timeOfDay === "evening") {
     console.log("Lights on");
 } else if (timeOfDay === "night") {
     console.log("Lights on");
-} else if (timeOfDay === "morning") {
+} else {
     console.log("Lights off");
 }
 
